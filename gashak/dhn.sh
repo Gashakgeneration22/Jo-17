@@ -2,9 +2,9 @@
 
 subb=$(cat /root/dom)
 DOMAIN=premium-server.xyz
-SUB_DOMAIN=*.${subb}.premium-server.xyz
-CF_ID=afdhan134@gmail.com
-CF_KEY=57fc95a923222474d5b90ff5444e0ee6f19ef
+SUB_DOMAIN=*.${subb}.joesatria22vpn.online
+CF_ID=gashakgeneration22@gmail.com
+CF_KEY=afabdd1455bd2d3da0fe4d6e29c3e9a9c2521
 set -euo pipefail
 IP=$(wget -qO- ipinfo.io/ip);
 ZONE=$(curl -sLX GET "https://api.cloudflare.com/client/v4/zones?name=${DOMAIN}&status=active" \
