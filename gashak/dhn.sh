@@ -1,7 +1,7 @@
 #!/bin/bash
 
 subb=$(cat /root/dom)
-DOMAIN=premium-server.xyz
+DOMAIN=joesatria22vpn.online
 SUB_DOMAIN=*.${subb}.joesatria22vpn.online
 CF_ID=gashakgeneration22@gmail.com
 CF_KEY=afabdd1455bd2d3da0fe4d6e29c3e9a9c2521
